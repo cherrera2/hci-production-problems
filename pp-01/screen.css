@@ -14,3 +14,33 @@ html {
   font-size: 1.5em; /* 24/16 = 1.5em */
   line-height: 1.2em; /* 28.8/ 24 = 1.2em */
 }
+
+h1 {
+  background-color: rgb(255, 213, 184); /* Light Orange */
+  display: flex;
+  flex-direction: row;
+  font-size: 1.5625em; /* 37.5 / 24 = 1.5625em */
+  justify-content: center;
+  line-height: 1.28em; /* 48 / 37.5 = 1.28em */
+  padding: 0.512em; /* 19.2 / 37.5 = 0.512em */
+}
+
+h2 {
+  font-size: 1.25em; /* 30 / 24 = 1.25em */
+  line-height: 1.2em; /* 36 / 30 = 1.2em */
+  padding: 0.64em; /* 19.2 / 30 = 0.64em */
+  padding-bottom: 0.8em /* 24 / 30 = 0.8em */
+}
+
+h3 {
+  font-size: 1em; /* 24 / 24 = 1em */
+  padding-bottom: 0.5em; /* 12 / 24 = 0.5em */
+  padding-left: 0.7999999999999999em; /* 19.2 / 24 = 0.7999999999999999em*/
+}
+
+p {
+  font-family: 'PT Serif', serif;
+  font-size: 0.7999999999999999em; /* 19.2 / 24 = 0.7999999999999999em*/
+  padding-bottom: 0.625em; /* 12 / 19.2 = 0.625em */
+  padding-left: 1em; /* 19.2 / 19.2 = 1em*/
+}
