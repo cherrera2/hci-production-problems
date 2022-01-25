@@ -7,3 +7,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+
+html {
+  background-color: rgb(245, 245, 245); /* Light Grey */
+  font-family: 'Volkhov', serif;
+  font-size: 1.5em; /* 24/16 = 1.5em */
+  line-height: 1.2em; /* 28.8/ 24 = 1.2em */
+}
