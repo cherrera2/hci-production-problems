@@ -15,8 +15,10 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=10e0u0kl7Rp9MYlg4V2pJMKv1Ge
+Your Rationale: As a lot of videogames are suppose to be energetic and sometimes gets your blood pumping
+                light red color pallet would fit well as it would bring the intensity
+                a gamer would want, but not too intense that it would be overpowering.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
