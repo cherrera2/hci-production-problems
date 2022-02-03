@@ -40,5 +40,9 @@ Your Rationale: For a kids app, brighter colors are absolutely necessary as it
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=a3J3l0kpJQpeBVIk-SYviN7ID-D
+Your Rationale: The color blue is a staple of cybersecurity which makes sense as blue
+                can be a symbol of strength. The teal color can also represent
+                strength as it is a combination of both blue and green. The subtle
+                green inside of the teal can also add more energy to the website with
+                the hint of money that the cybersecurity field is known for.
