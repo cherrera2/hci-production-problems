@@ -31,8 +31,12 @@ Your Rationale: With a garden, the color green is absolutely necessary. The yell
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=31z0u0kjq+C6c+SdH+JoH+2ujXs
+Your Rationale: For a kids app, brighter colors are absolutely necessary as it
+                keeps their attention, but it's important to not make it too bright
+                and loud as it may become obnoxious and hard to look at. The colors
+                also help as well as yellow can be associated with happiness, blue
+                associated with energy, and purple associated with creativity.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
