@@ -22,8 +22,12 @@ Your Rationale: As a lot of videogames are suppose to be energetic and sometimes
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=52d0u0keVLQ4zYZa1TujbCkn2uG
+Your Rationale: With a garden, the color green is absolutely necessary. The yellow
+                accents help as well as it can represent the sun that the plants
+                use to grow. Additionally, the lighter saturation can make the
+                website more calming which would be beneficial as many can see
+                a garden as a place to relax and meditate.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
