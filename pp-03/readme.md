@@ -45,8 +45,13 @@ Small commits to your Production Problems repository that include:
   it with simple to understand login and reset password buttons for users that
   already have accounts.
 
-* HCI Guideline Three (URL):
+* HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/
 * Describe how you implemented that guideline in your sketch:
+
+  I added a red warning border around the input box along with a red x and red
+  warning text when a user does not enter valid info into the input boxes. This
+  enhances the experience by making it easier for users to see the warning
+  letting them know they entered in something wrong.
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
