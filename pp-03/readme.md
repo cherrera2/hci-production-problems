@@ -38,8 +38,12 @@ Small commits to your Production Problems repository that include:
   section and made it two units tall in order to compensate for the camera
   hump so the user can easily access it.
 
-* HCI Guideline Two (URL):
+* HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/terminology/
 * Describe how you implemented that guideline in your sketch:
+
+  I removed the unnecessary paragraph under "Create a New Account" and replaced
+  it with simple to understand login and reset password buttons for users that
+  already have accounts.
 
 * HCI Guideline Three (URL):
 * Describe how you implemented that guideline in your sketch:
