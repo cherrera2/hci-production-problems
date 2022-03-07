@@ -29,8 +29,14 @@ Small commits to your Production Problems repository that include:
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
+* HCI Guideline One (URL): https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/
 * Describe how you implemented that guideline in your sketch:
+
+  I moved all elements that were on the very left of the page and added some
+  padding to them so they are closer to the middle. I did this with all of the
+  text and buttons the user would interact with. I also transformed the menu
+  section and made it two units tall in order to compensate for the camera
+  hump so the user can easily access it.
 
 * HCI Guideline Two (URL):
 * Describe how you implemented that guideline in your sketch:
