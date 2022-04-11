@@ -26,8 +26,8 @@ for your first (and second) round of usability testing.
 3. Have you arranged information properly? Make it easy for users to find what they’re looking for by grouping related information together.
 4. When a user makes a mistake or misses a question, warn him, so that he could write it properly.
 5. Make sure the language in all texts is simple enough for all users to understand.
-6.
-7.
-8.
-9.
-10.
+6. Limit font styles to 2 or 3 maximum per site. Over-designing the site can be distracting.
+7. The most critical page elements should be visible “above the fold” – on the first screen visitors see when they land on your web pages.
+8. Make sure pages rarely force the visitor to scroll more than 2.2 times.
+9. Use customer-focused language that explains the unique benefits of your products and services.
+10. Show your company name and logo in the upper left hand corner/upper banner area.
